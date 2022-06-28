@@ -1,3 +1,8 @@
+# 실전! Querydsl
+[실전! Querydsl - 인프런 | 강의](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84#)
+
+# Related Information
+[Querydsl - Unified Queries for Java](http://querydsl.com/)
 
 # Trouble
 문제:
